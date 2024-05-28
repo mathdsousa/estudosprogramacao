@@ -245,7 +245,7 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
 
 - [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
+- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
 - [ ] Decifrando A Entrevista de Programação Série 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
